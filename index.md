@@ -6,13 +6,10 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-Greetings! I am currently a Economics M.S. candidate at [Renmin University of China](https://www.spin-ion.com/), working under the mentorship of Dr. [Yinghao Pan](https://yinghaopan.com/). My research interests lie in development economics and social demography.
+Greetings! My name is Jiaowei Gong. I am currently a Economics M.S. candidate at [Renmin University of China](https://www.spin-ion.com/), working under the mentorship of Dr. [Yinghao Pan](https://yinghaopan.com/). My general research interests include development economics and social demography.
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Development Economics:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
+- **Social Demography:** fairness AI, penalization and augmentation methods
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
