@@ -8,8 +8,8 @@ layout: homepage
 
 Greetings! My name is Jiaowei Gong. I am currently a Economics M.S. candidate at [Renmin University of China](https://www.spin-ion.com/), working under the mentorship of Dr. [Yinghao Pan](https://yinghaopan.com/). My general research interests include development economics and social demography.
 ## Research Interest:
-- **Development Economics:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Social Demography:** fairness AI, penalization and augmentation methods
+- **Development Economics:** Environment, Labor, Health
+- **Social Demography:** Family, Ageing, Labor Market Inequality
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/projects.md %}
