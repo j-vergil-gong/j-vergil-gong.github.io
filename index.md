@@ -8,7 +8,7 @@ layout: homepage
 
 Greetings! My name is Jiaowei Gong. I am currently a Economics M.S. candidate at [Renmin University of China](https://www.spin-ion.com/), working under the mentorship of Dr. [Yinghao Pan](https://yinghaopan.com/). My general research interests include development economics and social demography.
 ## Research Interest:
-- **Development Economics:** Environment, Labor, Health
+- **Development Economics:** Human Capital Accumulation, Public Affairs and Misallocation, Health Inequality
 - **Social Demography:** Family, Ageing, Labor Market Inequality
 {% include_relative _includes/news.md %}
 
